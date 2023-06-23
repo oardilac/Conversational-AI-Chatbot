@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-[![Contributors](https://shields.io/badge/Contributors-2-green)](https://github.com/oardilac/Conversational-AI-Chatbot/graphs/contributors)
+[![Contributors](https://shields.io/badge/Contributors-1-green)](https://github.com/oardilac/Conversational-AI-Chatbot/graphs/contributors)
 [![Forks](https://img.shields.io/github/forks/oardilac/Conversational-AI-Chatbot)](https://github.com/oardilac/Conversational-AI-Chatbot/network/members)
 [![Stargazers](https://img.shields.io/github/stars/oardilac/Conversational-AI-Chatbot)](https://github.com/oardilac/Conversational-AI-Chatbot/stargazers)
 [![Issues](https://img.shields.io/github/issues/oardilac/Conversational-AI-Chatbot)](https://github.com/oardilac/Conversational-AI-Chatbot/issues)
