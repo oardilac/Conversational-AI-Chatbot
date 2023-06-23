@@ -1,0 +1,9 @@
+openai
+gradio
+langchain
+python-dotenv
+numpy
+pandas
+PyPDF2
+nltk
+scikit-learn
